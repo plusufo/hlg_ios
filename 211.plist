@@ -18,7 +18,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.honglinguo.SJTYmall</string>
+                <string>com.honglinguo.CSONEmall</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
