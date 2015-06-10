@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api1.m.dbfun.cn/static/bin/ZRM_221_20150525_v1.ipa</string>
+                    <string>http://api1.m.dbfun.cn/static/downloads/ios/zrm_221_20150610_v3.ipa</string>
                 </dict>
             </array>  
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.honglinguo.ZRMmall</string>
+                <string>com.honglinguo.Hlgmall</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ZRM_221_20150525_v1</string>
+                <string>zrm_221_20150610_v3</string>
             </dict>
         </dict>
     </array>

@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api1.m.dbfun.cn/static/bin/CSTWO_212_20150515_v1_1.ipa</string>
+                    <string>http://api1.m.dbfun.cn/static/downloads/ios/CSTWO_212_20150515_v1_1.ipa</string>
                 </dict>
             </array>  
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.honglinguo.CSTWOmall</string>
+                <string>com.honglinguo.Hlgmall</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>

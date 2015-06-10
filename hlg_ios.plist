@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api1.m.dbfun.cn/static/bin/HLG_mall_20150603_v2.1.ipa</string>
+                    <string>http://api1.m.dbfun.cn/static/downloads/ios/HLG_mall_20150610_v3.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>HLG_mall_20150603_v2.1.ipa</string>
+                <string>HLG_mall_20150610_v3.ipa</string>
             </dict>
         </dict>
     </array>

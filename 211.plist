@@ -12,13 +12,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://api1.m.dbfun.cn/static/bin/CSONE_211_20150515_v1_1.ipa</string>
+                    <string>http://api1.m.dbfun.cn/static/downloads/ios/CSONE_211_20150515_v1_1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.honglinguo.CSONEmall</string>
+                <string>com.honglinguo.Hlgmall</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
